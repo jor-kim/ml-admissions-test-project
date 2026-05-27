@@ -4,7 +4,7 @@ A small machine learning project that implements binary logistic regression in N
 
 ## Overview
 
-This repository walks through the full pipeline for a classic classification problem:
+This repository walks through the full pipeline for a classification problem:
 
 - Load and visualize a 2D dataset
 - Implement the sigmoid function, cost function, and gradient
@@ -35,7 +35,7 @@ pip install -r requirements.txt
 jupyter notebook notebooks/logistic_regression.ipynb
 ```
 
-Run all cells from the project root (or ensure paths resolve relative to the notebook).
+Run all cells from the project root.
 
 ## Project structure
 
